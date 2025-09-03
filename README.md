@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-ibrahim-5804b1264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ibrahim-5804b1264" height="30" width="40" /></a>
 <a href="mailto:mohamedibrahimx37@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mohamedibrahimx37@gmail.com" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="mohamedibrahimx37@gmail.com" height="30" width="40" />
 </a>
 </p>
 
