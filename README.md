@@ -1,4 +1,3 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 <h1 align="center">Hi 👋, I'm Mohamed Ibrhaim</h1>
 <h3 align="center">Backend Developer | Computer Science Graduate</h3>
 
