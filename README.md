@@ -9,7 +9,7 @@
 - 🧰 Previously worked as a **PHP Laravel Developer**
 - 💬 Ask me about **Java, Spring Boot, Angular, REST APIs, PHP, Laravel**
 - 📫 Reach me at **mohamedibrahimx37@gmail.com**
-- 📄 [My CV](https://drive.google.com/file/d/1E24EsBo2Q63iLhbVVWlpoqkpAyifYuJF/view?usp=drive_link)
+- 📄 [My CV](https://drive.google.com/file/d/1Dg7ZfNuUs96nEqWmxipwnmm0RePqyzZn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
