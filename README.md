@@ -32,7 +32,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamed-ibrahim&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamed-ibrahim&theme=react-dark&hide_border=true" alt="Activity graph" width="100%" />
-</p>
